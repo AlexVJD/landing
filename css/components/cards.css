@@ -1,0 +1,35 @@
+/* Your card CSS file */
+.cards {
+  display: flex;
+  justify-content: row;
+
+}
+.card-category {
+  width: 300px;
+  box-shadow: 0 10px 10px rgba(150, 150, 150, 1);
+  margin: 0 auto;
+}
+
+.card-product {
+  background-image: url(../../images/code.jpeg);
+  width: 300px;
+  height: 180px;
+  background-size: cover;
+}
+
+.card-trip {
+  background-color: white;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+
+.card-trip h2 {
+  margin: 0;
+}
+
+.card-trip p {
+  margin: 0;
+}

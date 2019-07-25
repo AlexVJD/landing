@@ -1,0 +1,24 @@
+/* Your button CSS file */
+.btn-medium {
+  color: #477AAF;
+  border-radius: 5px;
+  border: 2px solid;
+  padding: 10px;
+}
+
+.btn-treehouse {
+  background-color: #477AAF;
+  border-radius: 5px;
+  padding: 10px;
+  color: #FFFFFF;
+  width: 100px;
+  font-size: 20px;
+}
+
+.btn-yours {
+  color: #FFFFFF;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #6381A3;
+  box-shadow: 5px 10px 10px #888888;
+}
